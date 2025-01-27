@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=New+Amsterdam&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+.container{
+    /* background: linear-gradient(90deg, #9FE2BF,#e2ebf7); */
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+    border-radius: 15px;
+    margin: auto;
+    
+}
+.heading{
+    text-align: center;
+}
+.container table { 
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-top: none;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    margin: auto; 
+    padding: 20px;
+    
+}
+.head th{
+    border: 1px solid black;
+    font-size: 18px;
+    text-align: center;
+    background-color: rgb(231, 255, 174);
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    
+}
+td{
+    border: 1px solid black;
+    font-size: 18px;
+}
+.body1 td{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.p1{
+    margin-left: 60%;
+    
+}
+.Total{
+    margin-left: 75%;
+    font-size: 20px;
+    font-weight: 500;
+    font-style: normal;
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+}
+.p2{
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 15px;
+    height: 20px;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+}
+#company-addresses{
+    margin-left: 75%;
+}
+#bill-to-date{
+    margin-left: 75%;
+}
+th,td{
+    padding: 10px 20px;
+}
+tbody{
+    text-align: center;
+}
